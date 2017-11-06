@@ -7,3 +7,7 @@ Provides an installation helper for kali-linux
 ```
 ./install.sh
 ```
+
+## What it does
+
+Install MITMf
