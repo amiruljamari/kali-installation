@@ -11,3 +11,5 @@ Provides an installation helper for kali-linux
 ## What it does
 
 Install MITMf
+
+Install terminator
